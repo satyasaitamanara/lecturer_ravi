@@ -16,7 +16,7 @@ export const profileData = {
   },
 
  education: [
-  { degree: "Intermediate ", institution: "Mother Junior and Degree College, Kotananduru", year: "2001–2004" },
+  { degree: "Intermediate ", institution: "Mother Junior and Degree College, Kotananduru", year: "2002–2004" },
   { degree: "B.Com (Bachelor of Commerce)", institution: "Mother Junior and Degree College, Kotananduru", year: "2004–2007" },
   { degree: "M.Com (Master of Commerce)", institution: "Andhra University", year: "2007–2009" },
   { degree: "B.Ed (Bachelor of Education)", institution: "Mother Educational Institution, Kotananduru", year: "2019–2021" },
@@ -49,7 +49,7 @@ experience: [
     years: "2014 – 2022",
     role: "Principal & Lecturer",
     institution: "Sri Chaitanya Degree College, Kotananduru",
-    description: "Served as Principal for 8 years, leading both academic and administrative departments effectively.",
+    description: "Served as Principal for 10 years, leading both academic and administrative departments effectively.",
     achievements: [
       "Improved institutional performance and student outcomes",
       "Introduced modern teaching methodologies and technology integration",
