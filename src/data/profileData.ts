@@ -6,20 +6,20 @@ export const profileData = {
 
   bio: {
     summary: "With 15+ years of experience in commerce education, Mr. Ravi  has taught over 5,000 students across five colleges. Known for ethics, mentorship, and supporting needy students through fee reductions, he has dedicated his career to shaping the future of commerce education in rural and semi-urban areas.",
-    detailedBio: "Throughout his distinguished career, Mr. Ravi has not only excelled in classroom teaching but has also taken on leadership roles that have transformed educational institutions. His tenure as Principal at Chaitanya Degree College, Kotananduru, spanning over 5 years, saw significant improvements in academic results, student satisfaction, and infrastructure development.",
+    detailedBio: "Throughout his distinguished career, Mr. Ravi has not only excelled in classroom teaching but has also taken on leadership roles that have transformed educational institutions. His tenure as Principal at Sri Chaitanya Degree College, Kotananduru, spanning over 10 years, saw significant improvements in academic results, student satisfaction, and infrastructure development.",
     quickFacts: [
       { label: "Teaching Experience", value: "15+ years" },
-      { label: "As Principal", value: "5+ years" },
+      { label: "As Principal", value: "13+ years" },
       { label: "Colleges Served", value: "5" },
       { label: "Students Taught", value: "5,000+" },
     ]
   },
 
  education: [
-  { degree: "Intermediate (MPC)", institution: "Mother Junior and Degree College, Kotananduru", year: "2001–2004" },
+  { degree: "Intermediate ", institution: "Mother Junior and Degree College, Kotananduru", year: "2001–2004" },
   { degree: "B.Com (Bachelor of Commerce)", institution: "Mother Junior and Degree College, Kotananduru", year: "2004–2007" },
   { degree: "M.Com (Master of Commerce)", institution: "Andhra University", year: "2007–2009" },
-  { degree: "B.Ed (Bachelor of Education)", institution: "Mother Junior and Degree College, Kotananduru", year: "2019–2021" },
+  { degree: "B.Ed (Bachelor of Education)", institution: "Mother Educational Institution, Kotananduru", year: "2019–2021" },
   { degree: "BLiSc (Bachelor of Library and Information Science)", institution: "Acharya Nagarjuna University", year: "2023–2024" }
 ],
 
